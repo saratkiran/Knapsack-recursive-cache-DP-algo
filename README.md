@@ -1,5 +1,5 @@
 # Knapsack-recursive-cache-DP-algo
-Compare knapsack algorithms with timings
+Compare knapsack algorithms with timings analysis
 Sarat Kiran Andhavarapu
 
 Written in Java.
