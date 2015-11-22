@@ -1,5 +1,12 @@
 # Knapsack-recursive-cache-DP-algo
 Compare knapsack algorithms with timings
+Sarat Kiran Andhavarapu
+
+Written in Java.
+Uncomment the code between the horizontal dotted lines for corresponding solutions in Java file.
+Cap variable gives the capacity of the kanpsack 
+Change the no_objects variable to change the number of input objects 
+All three solutions are written in seperate functions. To execute each uncomment the correponding section.
 
 Folders - 
   1. Raw Data - Inputs used for testing all the algorithms 
