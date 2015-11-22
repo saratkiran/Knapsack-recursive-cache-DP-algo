@@ -8,12 +8,15 @@ Cap variable gives the capacity of the kanpsack
 Change the no_objects variable to change the number of input objects 
 All three solutions are written in seperate functions. To execute each uncomment the correponding section.
 
+                 ------------------------------------------------------------------------
+
 Folders - 
   1. Raw Data - Inputs used for testing all the algorithms 
   2. Java Code - Code used for the algos 
   3. Graphs - Graphs with different parameters to measure the efficiency of the algorithm
   4. Report - Detailed information about graphs and  observations.
 
+                 ------------------------------------------------------------------------
 
 Given: n items each of size s[i] and value v[i] and maximum capacity S. All objects have a non-zero size and a positive value
 Find a subset of objects that fit into the knapsack. It is not necessary that they exactly fit into the knapsack
@@ -24,6 +27,8 @@ Such that the sum of the values of the objects put in the knapsack is maximized.
 3) A caching (memorizing) solution to this problem. 
 
 4) A dynamic programming solution to this problem
+
+                 ------------------------------------------------------------------------
 
 Empirical Studies: 
 
